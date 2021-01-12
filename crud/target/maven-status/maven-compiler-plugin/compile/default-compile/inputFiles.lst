@@ -1,0 +1,11 @@
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\bean\Department.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\bean\Employee.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\controller\DepartmentController.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\controller\EmployeeController.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\bean\DepartmentExample.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\service\EmployeeService.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\dao\DepartmentMapper.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\dao\EmployeeMapper.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\bean\EmployeeExample.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\service\DepartmentService.java
+D:\AtGuigu\ssm_crud\crud\src\main\java\com\wenhao\crud\bean\Msg.java
